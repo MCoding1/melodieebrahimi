@@ -1,5 +1,4 @@
-# Melodie Ebrahimi's Computer Science Portfolio
-Melodie Ebrahimi's Computer Science Portfolio
+# Melodie's Computer Science Portfolio
 
 [Live site](https://mcoding1.github.io/melodieebrahimi/)
 
