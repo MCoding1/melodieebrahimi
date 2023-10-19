@@ -18,7 +18,6 @@ p{
   background-color: #ab9bab; /* being doubled so aa0000 is printinted */
 }
 
-p.special{
-  font-size: 1.2em:
-  color: #00f;
+.special{
+  color: #ff7dff;
 }
