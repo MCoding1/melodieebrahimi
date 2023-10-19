@@ -3,12 +3,15 @@
 }
 
 h1 {
-  background-color: #FF51E9;
+  background-color: #ff7dff;
 }
 
+body {
+  background-color: #ffe8ff;
+}
 
 p{
-  background-color: #fff6fe; /* being doubled so aa0000 is printinted */
+  background-color: #ab9bab; /* being doubled so aa0000 is printinted */
 }
 
 p.special{
