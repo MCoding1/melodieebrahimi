@@ -1,7 +1,7 @@
 let t = 0; // time variable
 
 function setup() {
-  let canvas1 = createCanvas(770, 303);
+  let canvas1 = createCanvas(1440, 303);
 canvas1.parent('sketch-container1');
   noStroke();
 }
