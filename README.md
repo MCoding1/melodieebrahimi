@@ -8,3 +8,5 @@
 - JavaScript
 - CSS
 - Other
+
+[For A Repository of My Other Projects CLick Here!](https://github.com/MCoding1/MelodieProjects)
