@@ -15,6 +15,8 @@ const SNOWFLAKES = [];
 function setup() {
   createCanvas(1080, 1350);
   noStroke();
+  let canvas2 = createCanvas(503, 503);
+canvas2.parent('sketch-container2');
 
   // Initialize the snowflakes with random positions
   for (let l = 0; l < LAYER_COUNT; l++) {
