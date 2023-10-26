@@ -13,11 +13,10 @@ const SNOWFLAKES = [];
 
 // Will run once when the sketch is opened
 function setup() {
-  createCanvas(1080, 1350);
-  noStroke();
+
   let canvas2 = createCanvas(503, 503);
 canvas2.parent('sketch-container2');
-
+  noStroke();
   // Initialize the snowflakes with random positions
   for (let l = 0; l < LAYER_COUNT; l++) {
     SNOWFLAKES.push([]);
