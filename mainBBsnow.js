@@ -34,7 +34,7 @@ canvas2.parent('sketch-container2');
 
 // Will run every frame (refreshes many times per second)
 function draw() {
-  background("brown");
+  background("blue");
 
   // Iterate through each snowflake to draw and update them
   for (let l = 0; l < SNOWFLAKES.length; l++) {
